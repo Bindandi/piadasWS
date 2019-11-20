@@ -1,0 +1,3 @@
+0;Livre;
+1;Maior de 12 anos;
+2;adulto;
